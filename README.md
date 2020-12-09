@@ -13,7 +13,7 @@ Preprocessing of data involved using the .melt() function because the columns in
 The data was split into train and test sets.
 I used an auto_arima model as a gridsearch to find the lowest AIC scores and corresponding p,d,qs.  
 I then created a statsmodel summary for each zipcode and sliced this data to create a dataframe of all the p,d,qs and lowest AIC for each zipcode.
-Created a SARIMA model to make predictions regarding the test data.  The auto-arima model identified the set of parameters that produces the best fitting model for   each zipcodes and I included these optiml parameters into the SARIMA model.  
+Created a SARIMA model to make predictions regarding the test data.  The auto-arima model identified the set of parameters that produces the best fitting model for   * each zipcodes and I included these optiml parameters into the SARIMA model.  
 
 ## **Business Problem**
 The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn to investment in. 
