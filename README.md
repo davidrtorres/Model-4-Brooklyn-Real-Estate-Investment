@@ -13,6 +13,7 @@ I worked with real estate sales data from Zillow.com which covered the time peri
 3. I used an auto_arima model as a gridsearch to find the lowest AIC scores and corresponding p,d,qs.  
 4. I then created a statsmodel summary for each zipcode and sliced this data to create a dataframe of all the p,d,qs and lowest AIC for each zipcode.
 5. Created a SARIMA model to make predictions regarding the test data.  The auto-arima model identified the set of parameters that produces the best fitting model each zipcodes and I included these optiml parameters into the SARIMA model.  
+6. From the SARIMA able to make predictions from test set and with RMSE evaluate how the model performed.
 
 ## **Business Problem**
 The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn to investment in. 
