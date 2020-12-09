@@ -6,4 +6,7 @@ Problem: I am a consultant for a real estate firm and they asked me to provide a
 I worked with real estate sales data from Zillow which covers time period 4-1-1996 to 4-1-2018.
 I used an auto_arima model to find the lowest AIC scores and corresponding p,d,qs. I split the data into a train and test set and used a SARIMA model to make predictions regarding the test data so I get an idea of how my models were working with making predictionss.
 
+## **Business Problem**
+The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn to investment in. 
+
 
