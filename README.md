@@ -13,4 +13,6 @@ I used an auto_arima model to find the lowest AIC scores and corresponding p,d,q
 ## **Business Problem**
 The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn to investment in. 
 
+## **Recommendations**
+
 
