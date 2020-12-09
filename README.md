@@ -8,6 +8,7 @@ The Model 4 project task was to create models for time series forecasting.  The 
 ### **Data**
 I worked with real estate sales data from Zillow.com which covered the time period 4-1-1996 to 4-1-2018.  I created models for a univariate Series.  I did not include categories other than the monthly mean sales prices for each zipcode. 
 
+### **Methods**
 I used an auto_arima model to find the lowest AIC scores and corresponding p,d,qs. I split the data into a train and test set and used a SARIMA model to make predictions regarding the test data so I get an idea of how my models were working with making predictionss.
 
 ## **Business Problem**
