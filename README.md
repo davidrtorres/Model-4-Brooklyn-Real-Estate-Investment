@@ -16,8 +16,13 @@ I worked with real estate sales data from Zillow.com which covered the time peri
 6. From the SARIMA able to make predictions from test set and with RMSE evaluate how the model performed.
 
 ## **Business Problem**
-The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn to investment in. 
+The investment firm has asked to provide an analysis and recommendations regarding the top 5 zipcodes in Brooklyn with the highest Return on Investment. 
 
 ## **Recommendations**
-
+Zipcodes w/predicted Top 5 ROIs:
+11223 (63%)
+11210 (59%)
+11230 (46%)
+11224 (45%)
+11233 (42%)
 
