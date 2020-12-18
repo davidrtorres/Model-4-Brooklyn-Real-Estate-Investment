@@ -20,9 +20,9 @@ The investment firm has asked to provide an analysis and recommendations regardi
 
 ## **Recommendations**
 Zipcodes w/predicted Top 5 ROIs:
-11223 (63%)
-11210 (59%)
-11230 (46%)
-11224 (45%)
-11233 (42%)
+11223 (63%)<br>
+11210 (59%)<br>
+11230 (46%)<br>
+11224 (45%)<br>
+11233 (42%)<br>
 
