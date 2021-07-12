@@ -1,5 +1,5 @@
 # Time Series Model Forecasting of Real Estate Data from Zillow.com
-## **TOP FIVE BROOKLYN ZIPCODES TO INVEST IN** 
+## **TOP FIVE BROOKLYN ZIPCODES for SHORT TERM REAL ESTATE INVESTMENTS** 
 
 Author:  David R. Torres
 
